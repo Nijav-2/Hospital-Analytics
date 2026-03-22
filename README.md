@@ -46,4 +46,4 @@ The dashboard helps analyze hospital operations, monitor patient statistics, and
 * Interactive Filters & Visualizations
 
  Get interactive report : 
- https://app.powerbi.com/view?r=eyJrIjoiYmZlNzJiODctNjdkNC00NzhmLWFkNzgtZDg2MGE3NTc5NDdiIiwidCI6IjhlMGZiNWQ5LTMwYmItNDNlOC1iZWU3LTJmZTI4NmYwZjA3YSJ9
+ https://app.powerbi.com/links/9EDy2Kxlww?ctid=8e0fb5d9-30bb-43e8-bee7-2fe286f0f07a&pbi_source=linkShare
